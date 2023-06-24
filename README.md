@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trojanhammer&label=Profile%20views&color=0e75b6&style=flat" alt="trojanhammer" /> </p>
 
-- 🌱 I’m currently learning **OOP (C++)**
+- 🌱 I’m currently learning **OOP (JAVA)**
 
 - 💬 Ask me about **EOP (JAVA)**
 
