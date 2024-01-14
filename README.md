@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trojanhammer&label=Profile%20views&color=0e75b6&style=flat" alt="trojanhammer" /> </p>
 
-- 🌱 I’m currently learning **Pyhton for Data Science**
+- 🌱 I’m currently learning **Phyton for Data Science**
 
-- 💬 Ask me about **EOP (JAVA)**
+- 💬 Ask me about **EOP (JAVA) and OOP(JAVA)**
 
 - 📫 How to reach me **mridhwanirfan7@gmail.com**
 
