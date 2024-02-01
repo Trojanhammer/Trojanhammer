@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Phyton for Data Science**
 
-- 💬 Ask me about **EOP (JAVA) and OOP(JAVA)**
-
 - 📫 How to reach me **mridhwanirfan7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
