@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎮 Currently teaching myself **reverse engineering and Switch emulation** — Ghidra, ARM64 disassembly, cross-version binary diffing, that kind of rabbit hole
+- 🎮 Currently teaching myself **reverse engineering and console emulation** — Ghidra, ARM64 disassembly, cross-version binary diffing, that kind of rabbit hole
 - 🧩 Into **understanding how compiled code actually works**, not just using tools — poking at CPU instructions, patch formats, and emulator internals for fun
 - 🔭 Also building **ALPHA**, a modular agentic RAG system comparing single-agent vs multi-agent designs, as a baseline for real-world use
 - 🌱 Split between two worlds: **low-level systems curiosity** and **applied AI engineering**
@@ -30,15 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trojanhammer&" alt="trojanhammer" /></p>
 
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/irfan6ridhwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irfan6ridhwan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ridhwan-irfan-337540243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://kaggle.com/mridhwanirfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://huggingface.co/WanIrfan" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" height="30" width="40" /></a>
-</p>
-
 ## 💻 Languages & Tools
 
 <p align="left">
@@ -58,4 +49,4 @@
 
 ---
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*"Curiosity beats talent."*
