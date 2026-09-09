@@ -1,25 +1,28 @@
 <h1 align="center">👋 hey, I'm trojanhammer</h1>
-<h3 align="center">Curious builder from Malaysia — reverse engineering, low-level CPU stuff, and emulation on the side</h3>
+<h3 align="center">Game engineer in the making — Unreal/C++, console internals, and emulation — with AI engineering on the side</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trojanhammer&label=Profile%20views&color=0e75b6&style=flat" alt="trojanhammer" /> </p>
 
 ## 🚀 About Me
 
-- 🎮 Currently teaching myself **reverse engineering and console emulation** — Ghidra, ARM64 disassembly, cross-version binary diffing, that kind of rabbit hole
-- 🧩 Into **understanding how compiled code actually works**, not just using tools — poking at CPU instructions, patch formats, and emulator internals for fun
-- 🔭 Also building **ALPHA**, a modular agentic RAG system comparing single-agent vs multi-agent designs, as a baseline for real-world use
-- 🌱 Split between two worlds: **low-level systems curiosity** and **applied AI engineering**
+- 🎮 Learning **game engineering from the ground up** — starting with Unreal Engine 5 + C++ fundamentals, working toward building game engines from scratch and diving into low-level graphics programming (**Vulkan**, **Metal**)
+- 🧩 Also teaching myself **reverse engineering and console emulation** — Ghidra, ARM64 disassembly, cross-version binary diffing, and how compiled game code actually runs under the hood
+- 🛠️ Contributing to **SharpEmu**, testing and reporting on its Metal rendering backend
+- 🌱 On the side: applied **AI engineering** — built **ALPHA**, a modular agentic RAG system comparing single-agent vs multi-agent designs
 
 ## 🛠️ Technical Stack
 
-### 🧩 Reverse Engineering / Low-Level
+### 🎮 Game Engineering
+- **Foundations**: Unreal Engine 5 (C++) — gameplay systems, class hierarchies, memory management
+- **Goal**: building engines from scratch, low-level graphics programming with Vulkan & Metal
+
+### 🧩 Reverse Engineering / Emulation
 - **Tools**: Ghidra, ARM64 disassembly, static & dynamic binary analysis
 - **Interests**: emulator internals, compiled-code patching, CPU architecture
 
-### 🔍 AI / ML
+### 🔍 AI / ML (side projects)
 - **RAG Systems**: Hybrid retrieval, agentic workflows, multi-agent architectures
 - **MLOps**: Model deployment, vector databases, evaluation & monitoring
-- **Generative AI**: Prompt engineering, reasoning frameworks, system design
 
 ## 📊 GitHub Stats
 
@@ -33,6 +36,9 @@
 ## 💻 Languages & Tools
 
 <p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.khronos.org/vulkan/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg" alt="vulkan" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
@@ -42,8 +48,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
