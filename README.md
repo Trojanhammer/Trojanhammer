@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trojanhammer&label=Profile%20views&color=0e75b6&style=flat" alt="trojanhammer" /> </p>
 
 ## 🚀 About Me
+🕹️🎮 Big believer in Nintendo's design philosophy. Gameplay first over chasing hyper-realistic graphics. Long-term dream is to work at a studio with that mindset or specifically Nintendo.
 
 - 🎮 Learning **game engineering from the ground up** — starting with Unreal Engine 5 + C++ fundamentals, working toward building game engines from scratch and diving into low-level graphics programming (**Vulkan**, **Metal**)
 - 🧩 Also teaching myself **reverse engineering and console emulation** — Ghidra, ARM64 disassembly, cross-version binary diffing, and how compiled game code actually runs under the hood
